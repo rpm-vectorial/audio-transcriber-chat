@@ -1,0 +1,69 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+## 🚀 Preferred Tech Stack — Gen AI Web & Mobile Apps
+
+This stack is optimized for building sleek, high-functionality Gen AI-powered apps using widely adopted technologies. It supports modern web, mobile, and AI development at scale.
+
+---
+
+### 🌐 Frontend (Web & Mobile)
+
+#### 🔧 Frameworks & Libraries
+- **React (Web)** – Component-based, highly popular frontend library.
+- **Next.js** – SSR, SSG, routing, and API support for React.
+- **React Native (Mobile)** – Cross-platform native mobile app development.
+- **Tailwind CSS** – Utility-first styling for clean, responsive UIs.
+- **shadcn/ui or Radix UI** – Customizable, accessible component libraries.
+- **Framer Motion** – Animations and UI transitions.
+- **TypeScript** – Type-safe JS development.
+
+---
+
+### 🔙 Backend
+
+#### 🌐 Node.js & Python
+- **Node.js + Express/Fastify** – Fast, scalable JavaScript backend.
+- **Python + FastAPI** – Async-native, performant Python API layer, ideal for serving AI models.
+
+#### 🧠 Gen AI Integration
+- **Python microservices** for LLMs, embeddings, and Gen AI logic.
+- **FastAPI + Uvicorn** – High-performance inference servers.
+- **Ray Serve / Triton** – Scalable model serving.
+- **Vector DBs**: FAISS / Pinecone / Weaviate (for semantic search or RAG).
+
+---
+
+### 🛢️ Data & Storage
+- **PostgreSQL** – Relational DB with strong support for structured data and pgvector.
+- **Redis** – Caching and message queues.
+- **Azure Blob / S3** – File and model storage.
+
+---
+
+### ⚙️ DevOps / CI
+- **Docker** – Containerized development and deployment.
+- **GitHub Actions** – CI/CD automation.
+- **Vercel / Netlify** – Frontend hosting with preview URLs.
+- **Azure / AWS / GCP** – Production-grade backend infrastructure.
+
+---
+
+### 🔐 Authentication & Security
+- **Auth0 / Clerk / Firebase Auth** – Auth services with JWT and social logins.
+- **Helmet.js + CORS + Rate Limiting** – API security.
+
+---
+
+### 📱 Mobile Development Enhancers
+- **Expo (optional)** – Quick React Native prototyping with minimal config.
+- **React Query / TanStack Query** – State management and server sync.
+
+---
+
+### 🧪 Data Science (Python-only)
+- **Jupyter, Pandas, NumPy, Scikit-learn, LangChain, OpenAI, Transformers** – Tools for data science, LLM apps, and experimentations.
+
+This stack ensures productivity, performance, and scalability for AI-first apps across devices and platforms.
