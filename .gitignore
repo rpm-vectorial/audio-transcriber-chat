@@ -32,6 +32,7 @@ ENV/
 *.swp
 *.swo
 .DS_Store
+.cursor/
 
 # Testing
 .coverage
@@ -89,4 +90,9 @@ wheels/
 dmypy.json
 
 # Rope project settings
-.ropeproject 
+.ropeproject
+
+# Node/Frontend
+node_modules/
+**/node_modules/
+**/.next/
